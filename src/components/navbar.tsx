@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
 					</NavLink>
 					<NavDivider />
 
-					<NavLink to="https://docs.google.com/forms/d/e/1FAIpQLSerPgPg6SLW3_oIwgoxulpjC6Q67NZhP_CmfbWiDP7ktVM_3g/viewform?embedded=true">
+					<NavLink to="https://docs.google.com/forms/d/e/1FAIpQLSerPgPg6SLW3_oIwgoxulpjC6Q67NZhP_CmfbWiDP7ktVM_3g/viewform?embedded=true" $isActive={location.pathname === ''} >
 						O.S.A
 					</NavLink>
 
