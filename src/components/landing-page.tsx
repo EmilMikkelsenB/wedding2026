@@ -5,6 +5,7 @@ import Footer from './footer';
 import InfoField from './info-field';
 import Hero from './hero';
 import Imagediv from './imagediv';
+import MoreInfoField from './more-info';
 
 const LandingPage: React.FC = () => {
 	return (
@@ -17,6 +18,7 @@ const LandingPage: React.FC = () => {
 					<Hero />
 					<RsvpField />
 					<InfoField />
+					<MoreInfoField />
 				</GridContainer>
 			</BackgroundStyle>
 			<Footer />
