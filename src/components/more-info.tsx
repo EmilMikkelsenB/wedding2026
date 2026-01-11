@@ -56,16 +56,4 @@ const RsvpFieldStyle = styled.div`
 	line-height: 1.6;
 `;
 
-const Divider = styled.hr`
-	width: 60%;
-	border: none;
-	border-top: 1px solid #ccc;
-	margin: 1.25rem 0;
-
-	@media (max-width: 480px) {
-		width: 80%;
-		margin: 1rem 0;
-	}
-`;
-
 export default MoreInfoField;
