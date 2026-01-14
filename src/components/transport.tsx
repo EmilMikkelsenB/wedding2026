@@ -29,7 +29,7 @@ const Transport: React.FC = () => {
 					<Divider />
 					<SubSectionTitle>Parkering</SubSectionTitle>
 					<TextContent>
-						Bra att veta är att det pågår ett nationaldagsfirande på Disagården bredvid kyrkan, så det kan vara dåligt med parkeringsplatser.				</TextContent>
+						Det finns parkering i anslutning till kyrkan. Bra att veta är att det pågår ett nationaldagsfirande i området, vilket kan innebära att det är dåligt med parkeringsplatser allra närmast kyrkan. Men, det finns fler parkeringsplatser i Gamla Uppsala och vid Storvadsbadet.</TextContent>
 				</ContentBox>
 			</GridContainer>
 		</BackgroundStyle>

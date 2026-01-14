@@ -15,7 +15,7 @@ const Boende: React.FC = () => {
 				</ImageBox>
 				<ContentBox>
 					<TextContent>
-						Bröllopsfesten är på Norrlands nation, som ligger mitt i centrala Uppsala. Det finns massor av hotell på gång- och rullavstånd. Bokar ni {link} får ni 10% rabatt med koden Wedding2026, som ni kan använda både om ni bokar på hemsidan eller via e-post.
+						Bröllopsfesten är på Norrlands nation, som ligger mitt i centrala Uppsala. Det finns massor av hotell på gång- och rullavstånd. Bokar ni {link} får ni 10% rabatt med koden Wedding2026 som ni kan använda både om ni bokar på hemsidan eller via e-post.
 					</TextContent>
 				</ContentBox>
 			</GridContainer>
