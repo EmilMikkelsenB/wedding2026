@@ -16,7 +16,7 @@ const Transport: React.FC = () => {
 						För att ta er till Gamla Uppsala kyrka går buss nr 2 från Dragarbrunn till hållplats Kungshögarna. Det tar drygt 20 minuter, därefter är det en kort promenad upp till kyrkan.
 					</TextContent>
 					<TextContent>
-						Ta sedan samma buss tillbaka till stan, närmaste hållplatsen till Norrlands nation är Dragarbrunn.
+						Ta sedan samma buss tillbaka till stan, närmaste hållplatsen till Norrlands nation är Trädgårdsgatan.
 					</TextContent>
 					<TextContent>
 						Biljett kan ni köpa antingen i UL-appen eller med kort på bussen.
