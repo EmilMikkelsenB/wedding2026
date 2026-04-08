@@ -16,7 +16,6 @@ const LandingPage: React.FC = () => {
 				<GridContainer>
 					<Imagediv />
 					<Hero />
-					<RsvpField />
 					<InfoField />
 					<MoreInfoField />
 				</GridContainer>

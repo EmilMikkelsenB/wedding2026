@@ -7,13 +7,7 @@ const InfoField: React.FC = () => {
 
 	return (
 		<RsvpSectionStyle>
-			<SubHeaderStyle>
-				Ett barnfritt bröllop
-			</SubHeaderStyle>
-			<RsvpFieldStyle>
-				Vi tycker mycket om era små, men den här dagen vill vi fira med er vuxna.
-			</RsvpFieldStyle>
-			<Divider />
+
 			<SubHeaderStyle>
 				Hålla tal? Uppträda?
 			</SubHeaderStyle>
@@ -22,6 +16,15 @@ const InfoField: React.FC = () => {
 			</RsvpFieldStyle>
 			<RsvpFieldStyle>
 				toastelseochadrian@gmail.com
+			</RsvpFieldStyle>
+
+			<Divider />
+
+			<SubHeaderStyle>
+				Ett barnfritt bröllop
+			</SubHeaderStyle>
+			<RsvpFieldStyle>
+				Vi tycker mycket om era små, men den här dagen vill vi fira med er vuxna.
 			</RsvpFieldStyle>
 
 		</RsvpSectionStyle>
