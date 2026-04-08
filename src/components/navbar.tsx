@@ -25,7 +25,6 @@ const Navbar: React.FC = () => {
 					<NavLink to="/boende" $isActive={location.pathname === "/boende"}>
 						Boende
 					</NavLink>
-					<NavDivider />
 				</NavLinks>
 			</NavPill>
 		</NavContainer>
