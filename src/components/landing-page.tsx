@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import RsvpField from './rsvp-field';
 import Footer from './footer';
 import InfoField from './info-field';
 import Hero from './hero';

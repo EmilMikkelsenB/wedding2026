@@ -42,15 +42,6 @@ const RsvpSectionStyle = styled.div`
 	}
 `;
 
-const SubHeaderStyle = styled.div`
-  font-size: clamp(1.25rem, 4vw, 1.75rem);
-  color: #333;
-  font-family: "Cavilenny", sans-serif;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  line-height: 1.4;
-`;
-
 const RsvpFieldStyle = styled.div`
   font-size: clamp(1.5rem, 2vw, 1.15rem);
   color: #333;
